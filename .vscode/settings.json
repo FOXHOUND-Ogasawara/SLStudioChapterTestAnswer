@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Chapter4/app/src/main/java",
+        "Chapter3/app/src/main/java",
+        "Chapter2/app/src/main/java",
+        "Chapter1/app/src/main/java"
+    ]
+}
